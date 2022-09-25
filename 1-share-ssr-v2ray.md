@@ -46,7 +46,7 @@
 | [我们所向往的](https://wmsxwd-e.men/auth/register?code=PCv3) | 🈚️ | ✅ | ❌ | [59元/半年](files/speedtest/image-20220810095703530.png) | [20220816](files/speedtest/20220816-161449.png) | 性价比还行 |
 | [PortX](https://portx.cc/auth/register?code=JFRX) | 不限 | ✅ | ❌ | [免费套餐](files/speedtest/image-20220808114207283.png) |  | 免费使用, 通过签到获取流量 |
 | [Teacat](https://teacat.cloud/#/register?code=yIW5ple9) | 🈚️ | ✅ | ✅ | [12元/月](files/speedtest/image-20220810094309768.png) | [20220816](files/speedtest/20220816-164534.png) |  |
-| [FIREFLIE](https://customer-01.yhcvpn.xyz/#/register?code=3Mek299I) | 🈚️ | ✅ | ✅ | [1元试用](files/speedtest/image-20220810094309768.png) | [20220925](files/speedtest/20220816-164534.png) |  |
+| [FIREFLIE](https://customer-01.yhcvpn.xyz/#/register?code=3Mek299I) | 🈚️ | ✅ | ✅ | [1元试用](files/speedtest/image-20220810094309768.png) | [20220925](files/speedtest/20220816-164534.png) | 性价比还行 |
 
 
 
